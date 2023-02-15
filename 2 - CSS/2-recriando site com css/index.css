@@ -1,0 +1,24 @@
+main {
+  background-color: #fffafa;
+  width: 60%;
+  margin: 0 auto;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+}
+span {
+  font-family: "Roboto", sans-serif;
+  color: #008080;
+  display: block;
+}
+p {
+  font-family: "Open Sans", sans-serif;
+}
+.postContent:nth-child(2) {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  width: 100%;
+}
+.divPost {
+  padding: 40px;
+}
